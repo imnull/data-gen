@@ -1,0 +1,25 @@
+{
+  "name": "data-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "fmtstr": "^1.0.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnull/data-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imnull/data-gen/issues"
+  },
+  "homepage": "https://github.com/imnull/data-gen#readme"
+}
